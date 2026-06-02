@@ -28,3 +28,5 @@ The findings were synthesized into a published conference paper presented at SIG
 pip install numpy pandas matplotlib
 ```
 
+## References:
+Carmen Nayeli Guzman, Anne Xu, and Adalbert Gerald Soosai Raj. 2021. Experiences of Non-Native English Speakers Learning Computer Science in a US University. In Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (SIGCSE '21). Association for Computing Machinery, New York, NY, USA, 633–639. https://doi.org/10.1145/3408877.3432437
