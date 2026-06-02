@@ -1,3 +1,30 @@
 This project was created through the Computing Education Research Lab at the University of California, San Diego. 
-The Jupyter Notebook cleans and processes survey data obtained from undergraduate computer science 
-courses at UCSD. 
+
+
+# Experiences of Non-Native English Speakers Learning Computer Science in a U.S. University
+
+## Project Description
+
+This project investigates the challenges faced by non-native English-speaking students in first year undergraduate Computer Science courses at a U.S. university. Survey responses were collected, cleaned, and analyzed to identify patterns in student experiences and offer actionable insights to improve inclusion and success rates among this population.
+
+
+## Notebook
+
+The [`preprocessing_and_analysis.ipynb`](preprocessing_and_analysis.ipynb) notebook covers:
+- Data cleaning and integrity checks
+- Exploratory data analysis
+- Statistical analysis and visualization of key findings
+
+## Publication
+This research was presented and published at the **2021 ACM Technical Symposium on 
+Computer Science Education (SIGCSE)**.
+The findings were synthesized into a published conference paper presented at SIGCSE 2021.
+
+📄 [Read the Paper](https://doi.org/10.1145/3408877.3432437)
+
+## Dependencies
+
+```bash
+pip install numpy pandas matplotlib
+```
+
