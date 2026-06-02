@@ -18,7 +18,6 @@ The [`preprocessing_and_analysis.ipynb`](preprocessing_and_analysis.ipynb) noteb
 ## Publication
 This research was presented and published at the **2021 ACM Technical Symposium on 
 Computer Science Education (SIGCSE)**.
-The findings were synthesized into a published conference paper presented at SIGCSE 2021.
 
 📄 [Read the Paper](https://doi.org/10.1145/3408877.3432437)
 
