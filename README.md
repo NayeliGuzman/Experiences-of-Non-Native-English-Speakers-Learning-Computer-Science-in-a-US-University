@@ -10,10 +10,14 @@ This project investigates the challenges faced by non-native English-speaking st
 
 ## Notebook
 
-The [`preprocessing_and_analysis.ipynb`](preprocessing_and_analysis.ipynb) notebook covers:
+The [`preprocessing_and_analysis.ipynb`](preprocessing_and_analysis.ipynb) notebook is an example of the analysis pipeline applied to survey data from one course. The same methodology was applied across data from 3 courses; this notebook is representative of the full workflow, which includes:
 - Data cleaning and integrity checks
 - Exploratory data analysis
 - Statistical analysis and visualization of key findings
+
+> **Note:** Raw survey data is not included in this repository due to participant 
+> privacy considerations. The notebook is provided as a representative example of 
+> the analysis methodology applied across all courses in the study.
 
 ## Publication
 This research was presented and published at the **2021 ACM Technical Symposium on 
